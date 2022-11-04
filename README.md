@@ -23,7 +23,9 @@ Instalación de dependencias:
 npm install
 ```
 
-
+Instalar dependencias con yarn:
 ```bash
 yarn
 ```
+
+![https://craftsmenltd.com/wp-content/uploads/2022/06/cra_vite.png](https://craftsmenltd.com/wp-content/uploads/2022/06/cra_vite.png)
