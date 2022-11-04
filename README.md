@@ -28,4 +28,4 @@ Instalar dependencias con yarn:
 yarn
 ```
 
-![https://craftsmenltd.com/wp-content/uploads/2022/06/cra_vite.png](https://craftsmenltd.com/wp-content/uploads/2022/06/cra_vite.png)
+![https://www.webcreatorbox.com/wp-content/uploads/2022/01/thumbnail-vite-react.jpg](https://www.webcreatorbox.com/wp-content/uploads/2022/01/thumbnail-vite-react.jpg)
